@@ -20,15 +20,19 @@
 - 주식 관련 정보 제공
 - 모의 주식 투자 체험
 
+
 # **설명**
 
+- 사용언어 : `Python`
+- 작업툴 : `VSCord`
+- 서버 : `Heroku`
+- DB : `PostgreSQL`
+- 사용 라이브러리 : `pandas`, `json`, `requests`, `BeautifulSoup`, `flask`, `jsonify`, `psycopg2`
 - 인원 : 4명
-- 언어 : Python
-- 서버 : HEROKU
-- DB : PostgreSQL
-- 사용 라이브러리 : pandas, requests, BeautifulSoup, flask, jsonify, psycopg2
-- 기간: 2022.05.20. ~ 2022.06.03.
-- 담당업무 : 챗봇 전체 시나리오 기획, 웹크롤링을 통한 데이터 수집, 카카오톡 스킬 구현, DB 구축
+- 기간 : 2020.05.20 - 2022.06.03
+- 담당 업무 : 시나리오 구상 후, 해당 시나리오를 구현하기 위해 카카오 오픈 챗봇 빌더 작업과 스킬 관련 코딩 작업
+- 최종 결과물 : 챗봇 제작 PPT, 제출용 소스 코드
+
 
 # **시연 영상**
 
