@@ -2,8 +2,8 @@
 
 - 해당 프로젝트에서는 카카오톡 챗봇 오픈빌더를 이용하여 주식 입문자를 위한 챗봇 제작을 목적으로 설정하고 진행하였습니다.
     
-    ![휴먼주식챗봇 도우미](https://user-images.githubusercontent.com/101307758/171578468-013ce4e2-e419-4390-8b80-fbb44dd72fc3.png)
-    
+    ![휴먼주식도우미 챗봇](/images/Chatbot_notion/Untitled.png)
+
 
 # **목표**
 
