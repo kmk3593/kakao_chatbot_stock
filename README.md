@@ -28,7 +28,7 @@
 - 서버 : `Heroku`
 - DB : `PostgreSQL`
 - 사용 라이브러리 : `pandas`, `json`, `requests`, `BeautifulSoup`, `flask`, `jsonify`, `psycopg2`
-- 인원 : 5명
+- 인원 : 4명
 - 기간 : 2022.05.20 - 2022.06.03
 - 담당 업무 : 시나리오 구상 후, 해당 시나리오를 구현하기 위해 카카오 오픈 챗봇 빌더 작업과 스킬 관련 코딩 작업
 - 최종 결과물 : 챗봇 제작 PPT, 제출용 소스 코드  
